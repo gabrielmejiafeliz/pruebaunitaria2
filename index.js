@@ -1,7 +1,7 @@
 // index.js
 
 function obtenerMensaje() {
-    return "Hola, mundo";
+    return "Hola, itla";
 }
 
 module.exports = obtenerMensaje;
